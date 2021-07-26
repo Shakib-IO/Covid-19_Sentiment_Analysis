@@ -1,5 +1,5 @@
 
-# Covid-19 Sentiment Analysis**
+# Covid-19 Sentiment Analysis
 
 **Context**
 
