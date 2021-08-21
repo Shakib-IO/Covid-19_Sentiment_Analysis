@@ -37,7 +37,7 @@ You can perform multiple operations on the vaccines tweets. Here are few possibl
 - https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets
 
 
---
+---
 
 **Abstract**
 
