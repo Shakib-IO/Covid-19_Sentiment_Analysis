@@ -46,4 +46,4 @@ Abstract: This COVID-19 pandemic is so dreadful that it leads to severe anxiety,
 
 **Overall Architecture**
 
-<img src = "https://github.com/Shakib-IO/Covid-19_Sentiment_Analysis/blob/main/images/Covid-19.png" width=100, height=100>
+<img src = "https://github.com/Shakib-IO/Covid-19_Sentiment_Analysis/blob/main/images/Covid-19.png">
