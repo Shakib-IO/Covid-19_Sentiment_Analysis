@@ -31,12 +31,11 @@ You can perform multiple operations on the vaccines tweets. Here are few possibl
 - Perform various NLP tasks on this data source (topic modelling, sentiment analysis);
 - Using the COVID-19 World Vaccination Progress (where we can see the progress of the vaccinations and the countries where the vaccines are administered), you can study the relationship between the vaccination progress and the discussions in social media (from the tweets) about the vaccines.
 
-
-'''
+```
 *Dataset*
 - [Dataset 01](https://www.kaggle.com/c/tweet-sentiment-extraction)
 - [Dataset 02](https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets)
-'''
+```
 ---
 
 **Abstract**
