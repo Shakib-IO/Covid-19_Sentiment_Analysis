@@ -1,5 +1,5 @@
 
-# [Covid-19 Sentiment Analysis]()
+# [Covid-19 Sentiment Analysis](https://www.hindawi.com/journals/cmmm/2021/4321131/)
 
 > The given challenge is to build a classification model to predict the sentiment of Covid-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done. We are given information like Location, Tweet At, Original Tweet, and Sentiment.
 
