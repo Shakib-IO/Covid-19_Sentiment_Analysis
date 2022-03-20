@@ -5,7 +5,7 @@
 
 **Context**
 
-I collect recent tweets about the COVID-19 vaccines used in entire world on large scale, as following:
+Collect recent tweets about the COVID-19 vaccines used in entire world on large scale, as following:
 
 - Pfizer/BioNTech;
 - Sinopharm;
