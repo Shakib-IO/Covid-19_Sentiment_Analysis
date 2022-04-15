@@ -1,5 +1,5 @@
 
-# [Covid-19 Sentiment Analysis](https://www.hindawi.com/journals/cmmm/2021/4321131/)
+# [Deep Learning-Based Sentiment Analysis of COVID-19 Vaccination Responses from Twitter Data](https://www.hindawi.com/journals/cmmm/2021/4321131/)
 
 > The given challenge is to build a classification model to predict the sentiment of Covid-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done. We are given information like Location, Tweet At, Original Tweet, and Sentiment.
 
